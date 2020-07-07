@@ -1,0 +1,4 @@
+# Fintech_Lending_Club
+LendingClub is the world's largest peer-to-peer lending platform. The company enables borrowers to create personal loans between $1,000 and $40,000. The investors can search and browse the loan listings on LendingClub website and select loans that they want to invest based on the information supplied about the borrower. Investor make money from interest. LendingClub makes money by charging borrowers an origination fee and investor a service fee.
+
+This project is to use the historical loan data from LendingClub to build a model that can predict the loan status (whether or not the loan will be default or fully paid). The model also finds the most important factors which impact the prediction from the user information provided by the borrowers. The Lending Club investors can use these results to make better-informed decisions on note choice.
